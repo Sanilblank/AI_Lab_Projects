@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static int weightA = -1;
+    static int weightA = 0;
     static int weightB = 0;
     static int bias = 0 ;
 
